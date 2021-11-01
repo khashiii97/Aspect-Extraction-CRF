@@ -1,0 +1,11 @@
+training data length:  5918
+test data length:  1973
+              precision    recall  f1-score   support
+
+           B       0.83      0.53      0.65       920
+           I       0.66      0.43      0.52       291
+           O       0.99      1.00      0.99     42424
+
+    accuracy                           0.98     43635
+   macro avg       0.83      0.65      0.72     43635
+weighted avg       0.98      0.98      0.98     43635
