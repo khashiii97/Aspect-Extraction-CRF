@@ -1,5 +1,5 @@
 # Aspect-Extraction-CRF
-## NLP Extracting opinion targets from the SentiPers dataset using Conditional Random Fields
+##  NLP Extracting opinion targets from the SentiPers dataset using Conditional Random Fields
 This repository hosts an implementation of the paper "Extracting Opinion Targets in a Single- and Cross-Domain Setting
 with Conditional Random Fields" as stated in the [original paper](https://aclanthology.org/D10-1101.pdf). It is used to develop a model for extracting aspects in a given review sentence, trained on
 the [SentiPers](https://github.com/phosseini/SentiPers) dataset.
